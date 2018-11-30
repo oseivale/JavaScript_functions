@@ -1,0 +1,3 @@
+this is where I am working from:
+
+https://medium.com/@joomiguelcunha/learn-map-filter-and-reduce-in-javascript-ea59009593c4
